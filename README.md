@@ -1,5 +1,14 @@
-# Hi 👋 I'm Gabriel Oliveira
+# <p align="center">Hi 
 
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<h2 align="center">Gabriel Oliveira
+
+
+<h4 align="center">
 🎓 Cursando Engenharia de Software | Puc Minas Coração Eucarístico
 📍 Belo Horizonte | Brasil
 
@@ -52,5 +61,7 @@
 ---
 
 ⭐ Sempre aberto a colaborações, parcerias e ideias interessantes
+
+<img src="https://raw.githubusercontent.com/Biels2w/Biels2w/output/snake.svg" alt="Snake animation" />
 
 
