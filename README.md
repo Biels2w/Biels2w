@@ -62,6 +62,6 @@
 
 ⭐ Sempre aberto a colaborações, parcerias e ideias interessantes
 
-<img src="https://raw.githubusercontent.com/Biels2w/Biels2w/output/snake.svg" alt="Snake animation" />
+
 
 
