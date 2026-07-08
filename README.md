@@ -90,12 +90,7 @@
 
 <td>
 
-<a href="https://nice-readme.vercel.app/top-langs">
-  <img 
-    src="https://helio-github-stats.vercel.app/api/top-langs?username=Biels2w&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=4"
-    height="194"
-  />
-</a>
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=Biels2w&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
 
 </td>
 </tr>
