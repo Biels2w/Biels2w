@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou o Gabriel de Oliveira! 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação na <b>PUC Minas</b> | 💻 19 anos
+  🎓 Estudante de Engenharia de software na <b>PUC Minas</b> | 💻 19 anos
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
