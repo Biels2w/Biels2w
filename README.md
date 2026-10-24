@@ -125,7 +125,7 @@
 </table>
 </div>
 
-<br>
+---
 
 ### 🎮 Time Pokémon
 
