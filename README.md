@@ -66,6 +66,9 @@
 </tr> 
 </table>
 
+<table>
+<tr>
+<td>
 <img src="https://helio-github-stats.vercel.app/api?username=Biels2w&custom_title=GitHub+Stats&theme=dark&title_color=fb8c00&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
 </td>
 <td>
@@ -122,6 +125,20 @@
 </table>
 </div>
 
+<br>
+
+### 🎮 Time Pokémon
+<h2></h2>
+
+<p align="">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/157.gif" height="64" alt="Typhlosion" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" height="64" alt="Bulbasaur" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/169.gif" height="64" alt="Crobat" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/195.gif" height="64" alt="Quagsire" />
+</p>
+
+<br>
+
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
@@ -140,3 +157,5 @@
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph.svg">
 </picture>
+  </table>
+</div>
