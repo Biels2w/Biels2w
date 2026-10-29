@@ -69,9 +69,6 @@
 <table>
 <tr>
 <td>
-<img src="https://helio-github-stats.vercel.app/api?username=Biels2w&custom_title=GitHub+Stats&theme=dark&title_color=fb8c00&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
-</td>
-<td>
 <img alt="GitHub Streak" width="485px" src="https://streak-stats.demolab.com?user=Biels2w&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
